@@ -56,8 +56,8 @@
   
    <div align="center">
     <a href="mailto:santosojeremy07@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="santosojeremy07@gmail.com" height="30" width="40" /></a>
-    <a href="https://github.com/jeromedesantos12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jeremy Santoso" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/jeromedesantos12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeremy Santoso" height="30" width="40" /></a>
+    <a href="https://github.com/jeromedesantos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jeremy Santoso" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/jeromedesantos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeremy Santoso" height="30" width="40" /></a>
     <a href="https://instagram.com/jeremy001_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jeremy Santoso" height="30" width="40" /></a>
   </div  >
   <hr />
