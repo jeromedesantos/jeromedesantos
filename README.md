@@ -124,12 +124,6 @@
 
   <hr />
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromedesantos&layout=compact&theme=react" alt="Top Langs" />
-  </div>
-
-  <hr />
-
   <h2>🐍 A Snake Eating my Contributions Graph</h2>
 
   <div align="center">
