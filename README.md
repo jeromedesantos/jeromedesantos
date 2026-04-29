@@ -59,7 +59,7 @@
     <a href="https://github.com/jeromedesantos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jeremy Santoso" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/jeromedesantos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeremy Santoso" height="30" width="40" /></a>
     <a href="https://instagram.com/jeremy001_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jeremy Santoso" height="30" width="40" /></a>
-  </div  >
+  </div>
   <hr />
 
   <h2>💡 Programming Languages 
