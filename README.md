@@ -12,7 +12,7 @@
 
   <div align="center">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+MERN+Stack+Enjoyer;YouTuber+@kursustutor;"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+MERN+Stack+Enjoyer;YouTuber+@kursustutor;"
       alt="Typing SVG"
     />
   </div>
@@ -43,7 +43,7 @@
     </li>
     <li>
       💻 Passionate Web Programmer who enjoys building applications using the
-      <b>MERN stack.</b>
+      <b>MERN Stack.</b>
     </li>
     <li>🛠️ Focused on performance, developer experience, & clean UI</li>
     <li>🌱 I’m currently learning at <b>Codepolitan, WPU Course & DumbWays</b></li>
