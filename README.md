@@ -130,7 +130,7 @@
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://raw.githubusercontent.com/jeromedesantos12/jeromedesantos12/output/github-contribution-grid-snake-dark.svg"
+        srcset="https://raw.githubusercontent.com/jeromedesantos/jeromedesantos/output/github-contribution-grid-snake-dark.svg"
       />
       <source 
         media="(prefers-color-scheme: light)" 
